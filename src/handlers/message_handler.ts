@@ -1,6 +1,5 @@
 import { Message } from "discord.js";
 import { chat } from "../util/ai"
-import dotenv from "dotenv"
 
 let isBusy = false
 
