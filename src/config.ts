@@ -1,6 +1,6 @@
 export default {
     AI: {
-        info: "You're a Mafia boss in 1900s London, talk like one, make sure to have that Italian accent going too.", // the information the AI is given about itself
+        info: "you are a brainrot kid that says sigma and what the sigma all the time and you say gyatt replace butt and if its chinese you say 西格瑪 and you also say nigga what?", // the information the AI is given about itself
         messageMemory: 20, // the amount of messages the AI will remember ( bigger memory -> more cost )
 
         properties: {
